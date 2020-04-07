@@ -1,0 +1,28 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20170223BBZ.Plugins", "20170223BBZ.Plugins.csproj", "{B1BCB50C-49AA-48FB-7ABA-FAC8423C4B81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20170223BBZ", "20170223BBZ.csproj", "{BED64A85-064B-A02D-0481-14AD814C1023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20170223BBZ.Editor", "20170223BBZ.Editor.csproj", "{B4DDB164-7DEE-2773-045F-2E7C0680DEF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BCB50C-49AA-48FB-7ABA-FAC8423C4B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BCB50C-49AA-48FB-7ABA-FAC8423C4B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BCB50C-49AA-48FB-7ABA-FAC8423C4B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BCB50C-49AA-48FB-7ABA-FAC8423C4B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED64A85-064B-A02D-0481-14AD814C1023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED64A85-064B-A02D-0481-14AD814C1023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED64A85-064B-A02D-0481-14AD814C1023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED64A85-064B-A02D-0481-14AD814C1023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DDB164-7DEE-2773-045F-2E7C0680DEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DDB164-7DEE-2773-045F-2E7C0680DEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DDB164-7DEE-2773-045F-2E7C0680DEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DDB164-7DEE-2773-045F-2E7C0680DEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
